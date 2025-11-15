@@ -1,4 +1,4 @@
-# Interpretable Machine Learning for Customer Churn Prediction  
+# Interpretable Machine Learning for Credit Risk Prediction  
 ### Using XGBoost + SHAP on the Customer Churn Dataset
 
 This project builds and interprets a customer churn prediction model using  
