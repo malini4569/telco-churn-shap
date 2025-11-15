@@ -1,5 +1,5 @@
 # Interpretable Machine Learning for Customer Churn Prediction  
-### Using XGBoost + SHAP on the Telco Customer Churn Dataset
+### Using XGBoost + SHAP on the Customer Churn Dataset
 
 This project builds and interprets a customer churn prediction model using  
 the **Credit Risk and Finance Risk.csv** dataset.  
