@@ -1,6 +1,6 @@
-# Interpretable Machine Learning for Credit Risk Prediction
+# Interpretable Machine Learning for Customer Churn Prediction
 
-**Dataset:** Credit Risk and Finance Risk.csv
+**Dataset:** Customer Churn and Finance Risk.csv
 
 ## Model & Training
 - Model: XGBoost via scikit-learn Pipeline
