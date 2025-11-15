@@ -1,4 +1,4 @@
-# Interpretable ML: SHAP Explanations for Telco Churn Prediction
+# Interpretable Machine Learning for Customer Churn Prediction
 
 **Dataset:** Credit Risk and Finance Risk.csv
 
